@@ -182,12 +182,9 @@ vit.html
 
 
 ## OUTPUT
-![alt text](map-1.png)
-![alt text](home-1.png)
-![alt text](park-1.png)
-![alt text](temple-1.png)
-![alt text](store-1.png)
-![alt text](vit-1.png)
+
+![map](https://github.com/user-attachments/assets/fa410adf-c4d3-4b35-b549-479bc2cf4ad4)
+
 
 
 ## RESULT
