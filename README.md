@@ -25,8 +25,9 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-`
-map.html
+
+
+```map.html
 <html>
 <head>
 <title>My City</title>
@@ -50,9 +51,9 @@ map.html
 </map>
 </center>
 </body>
-</html>```
+</html>
 
-`
+
 home.html
 <html>
 <head>
@@ -76,9 +77,9 @@ home.html
 </font>
 </p>
 </body>
-</html>```
+</html>
 
-`
+
 park.html
 <html>
 <head>
@@ -100,9 +101,9 @@ park.html
      The park is open 7 days a week and is located on Kanchipuram - Vellore Bypass Road, NH 46.
 </p>
 </body>
-</html>```
+</html>
 
-`
+
 temple.html
 <html>
 <head>
@@ -127,9 +128,9 @@ temple.html
 </font>
 </p>
 </body>
-</html>```
+</html>
 
-`
+
 store.html
 <html>
 <head>
@@ -153,9 +154,9 @@ store.html
 </font>
 </p>
 </body>
-</html>```
+</html>
 
-`
+
 vit.html
 <html>
 <head>
@@ -178,6 +179,7 @@ vit.html
 </p>
 </body>
 </html>```
+
 
 ## OUTPUT
 ![alt text](map-1.png)
