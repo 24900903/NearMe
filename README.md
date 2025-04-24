@@ -181,9 +181,10 @@ vit.html
 </html>```
 
 
-## OUTPUT
+###OUTPUT
+![map](https://github.com/user-attachments/assets/8f64c925-a80c-476b-9b54-e673fae4b2ce)
 
-![map](https://github.com/user-attachments/assets/fa410adf-c4d3-4b35-b549-479bc2cf4ad4)
+
 
 
 
