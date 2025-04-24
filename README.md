@@ -27,7 +27,7 @@ Execute the programs and publish them.
 ## CODE
 
 
-```map.html
+map.html
 <html>
 <head>
 <title>My City</title>
@@ -178,10 +178,11 @@ vit.html
 </font>
 </p>
 </body>
-</html>```
+</html>
 
 
-###OUTPUT
+
+  ##OUTPUT
 ![map](https://github.com/user-attachments/assets/8f64c925-a80c-476b-9b54-e673fae4b2ce)
 
 
