@@ -181,14 +181,13 @@ vit.html
 </html>
 ```
 
-
-
   ##OUTPUT
 ![map](https://github.com/user-attachments/assets/8f64c925-a80c-476b-9b54-e673fae4b2ce)
-
-
-
-
+![home](https://github.com/user-attachments/assets/2edba3ec-bfb8-4a43-b4ed-e22198244e68)
+![park](https://github.com/user-attachments/assets/b04972c5-4b42-4439-8f67-64e42c461680)
+![temple](https://github.com/user-attachments/assets/94501ded-69c2-464a-9e70-76fd732c938e)
+![store](https://github.com/user-attachments/assets/3af652f7-199f-4015-8314-101dab85d599)
+![vit](https://github.com/user-attachments/assets/a384bb60-e9a0-4e54-b2ac-07d45ffa6f01)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
