@@ -10,7 +10,7 @@ To develop a website to display details about the places around my house.
 Create a Django admin interface.
 
 ### STEP 2
-Download your city map from Google.
+Download your city map from Google
 
 ### STEP 3
 Using ```<map>``` tag name the map.
